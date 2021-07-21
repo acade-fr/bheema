@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Installation"
+title:  "accueil"
 categories: jekyll update
 img: phare.png
 categories: one
