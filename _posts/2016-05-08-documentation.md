@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Documentation
-img: lost-7.jpg
+img: phare.png
 ---
 
 Bheema is a theme suitabel for image heavy journal kind of websites. 
