@@ -11,7 +11,7 @@ img-dev-perso: arb+roc-cf.jpg
 <div class="row first-row">
 {% assign post = site.tags.a-la-une[0] %}
 <a href="{{site.baseurl}}{{post.url}}">
-        <div class="eight columns news-piece news-piece-1 border" style="background-image: url({{site.baseurl}}/img/{{page.img}})">
+        <div class="eight columns news-piece news-piece-1 border" style="background-image: url({{site.baseurl}}/img/{{post.img}})">
         <p class="news-title">{{post.title}}</p>
         <p class="news-exp">{{post.excerpt | strip_html | truncate: 80 }}</p>
         </div>
@@ -40,7 +40,7 @@ img-dev-perso: arb+roc-cf.jpg
     
     {% assign post = site.tags.analyse-des-pratiques[0] %}
     <a href="{{site.baseurl}}{{post.url}}">
-    <div class="four columns news-piece news-piece-2" style="background-image: url({{site.baseurl}}/img/{{page.img}});"> 
+    <div class="four columns news-piece news-piece-2" style="background-image: url({{site.baseurl}}/img/{{post.img}});"> 
     <p class="news-title">{{post.title}}</p>
     <p class="news-exp">{{post.excerpt | strip_html | truncate: 80 }}</p>
     </div>
