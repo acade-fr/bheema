@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analyse des pratiques"
+title:  "analyse des pratiques"
 permalink: /analyse-des-pratiques/
 img: sculpture.jpg
 tag: analyse-des-pratiques
