@@ -2,7 +2,7 @@
 layout: post
 title:  "Analyse des pratiques"
 permalink: /analyse-des-pratiques/
-img: phare.png
+img: sculpture-c.jpg
 tag: analyse-des-pratiques
 ---
 Bla bla bla...
