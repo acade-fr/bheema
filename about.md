@@ -5,7 +5,7 @@ permalink: /about/
 img: bheema-2.PNG
 ---
 
-<b>Joël Gronfier</b>, je suis
+<b>Joël Gronfier</b>,
 
 <b>formateur en management et communications humaines</b>
 
