@@ -1,16 +1,30 @@
 ---
 layout: post
-title: About
+title: à propos
 permalink: /about/
 img: bheema-2.PNG
 ---
 
-In the Hindu epic Mahabharata, Bheema, is the second of the Pandavas. The Mahabharata relates many events which portray the immense might of Bheema. Bhima is responsible for slaying all hundred Kaurava brothers in the Kurukshetra War.
+Joël Gronfier, je suis
 
-At the time Bhima kills the rakshasa(evil) Hidimba, he meets his sister Hidimbi; they eventually get married and have a son, [Ghatotkacha](http://webjeda.com/gatok/about/). 
+<b>formateur en management et communications humaines</b>
+Depuis plus de 15 ans, je mets en œuvre une pédagogie participative et développe des méthodologies utilisant l’expérimentation.
+Chaque thématique est l'occasion de créer de nouveaux outils et supports pour favoriser cette démarche inter-active.
+
+En outre, j'interviens régulièrement pour le Centre National de la Fonction Publique Territoriale (CNFPT – Région Rhône-Alpes-Grenoble) sur les thématiques du Management et de la communication.
 
 
-<iframe class="video" src="https://www.youtube.com/embed/6qqIy97WbGA" frameborder="0" allowfullscreen></iframe>
+<b>consultant manager</b>
+Depuis plus de 10 ans, j'apporte un regard professsionnel et extérieur sur les différentes questions relatives au rôle et à la posture de manager.
 
 
-Find more themes: [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
+<b>coach professionnel certifié</b>
+Depuis plus de 10 ans je facilite les évolutions.
+Certifié par ICI Genève accrédité ICF, je développe le coaching individuel / life-coaching et le coaching d'équipe.
+
+
+Auteur de  :
+    • Les clés de la communication Éd. Céléades 
+    • La communication par le jeu Éd. Génie des Glaciers 
+
+En 2005, je créé Acadé.
