@@ -1,0 +1,93 @@
+---
+layout: post
+title:  "exemples markdown"
+permalink: /exemples-markdown/
+---
+
+Voici quelques exemples de codage markdown
+
+# Markdown?
+
+Pour mémoire, *Markdown* est le nom du système de codage qu'on utilise, qui permet de mettre le texte en forme de manière simple.
+Exemple, encadrer le texte entre des étoiles (*) pour le *mettre en italique*.
+Ou faire des listes
+- simplement
+- en précédent
+- le texte
+- de tirets.
+
+Je crois t'avoir déjà donné le lien, mais une doc en français est disponible ici: https://documentation-snds.health-data-hub.fr/contribuer/guide_contribution/tutoriel_markdown.html#titres
+
+(ah oui tiens, tu as remarqué, markdown reconnait les URLs et les transforme automatiquement en liens 😉)
+
+## Emoji
+
+Il suffit de les copier-coller dans le texte: 😁🏠📢
+
+Sous Gnome, tu as une appli qui doit s'appeler "Caractères" qui te permet de chercher et de copier n'importe quel caractère, y compris des émojis.
+
+## Lien vers un PDF
+
+Pour faire un lien, le code est le suivant :
+
+```
+    [texte du lien](/chemin/du/fichier)
+```
+
+avec donc:
+- le texte portant le lien entre crochets
+- suivi du chemin du fichier entre parenthèses.
+
+Exemple, si j'écris:
+```
+   Télécharger [ce fichier PDF](/documents/exemple.pdf)
+```
+ça donnera:
+
+   Télécharger [ce fichier PDF](/documents/exemple.pdf)
+
+## Lien externe
+
+Comme on a vu plus haut, si tu mets une URL (quelque chose qui commence par `http://` ou `https://`), cela est automatiquement converti en lien.
+
+Si par contre tu veux que le texte du lien soit différent, c'est exactement le même principe que plus haut :
+
+```
+    [texte du lien](URL)
+```
+
+Exemple, si j'écris:
+```
+   Quelle homme, ce [PAC](https://perso.liris.cnrs.fr/pierre-antoine.champin/)
+```
+ça donnera:
+
+   Quelle homme, ce [PAC](https://perso.liris.cnrs.fr/pierre-antoine.champin/)
+
+
+## Image
+
+La syntaxe pour les images est très similaire à celle des liens, mais précédée d'un point d'exclamantion (qui évoque le "i" de image, à l'enverse).
+
+```
+  ![texte de remplacement](chemin ou URL de l'image)
+```
+
+Exemple, si j'écris
+```
+   ![un joli phare](/img/phare.jpg)
+```
+ça donnera
+   ![un joli phare](/img/phare.jpg)
+
+NB: le texte de remplacement s'affichera si l'image ne peut pas être affichée, pour raison ou une autre.
+
+## Addresses email clickables
+
+Il ne reconnait pas les adresses mails comme des liens, apparemment... Mais tu peux le forcer en créant un lien explicitement :
+
+```
+   [joel@acade.fr](mailto:joel@acade.fr)
+```
+
+Note bien le `mailto:` devant l'adresse mail pour en faire une URL.
