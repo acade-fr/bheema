@@ -9,6 +9,6 @@ Prendre du recul sur ses pratiques professionnelles, les interroger, c’est s�
 
 Cette proposition s’adresse aux équipes pro constituées tout autant qu’à des groupes créés pour l’occasion autour d’un élément commun par exemple le management.
 
-J’accompagne ainsi depuis plusieurs années des équipes variées, équipes pro, de direction ou encore de managers lors de séances d’1 à 2 heures sur site ou en distanciel.
+🗨 *J’accompagne ainsi depuis plusieurs années des équipes variées, équipes pro, de direction ou encore de managers lors de séances d’1 à 2 heures sur site ou en distanciel.*
 
 plus d'infos : [joel@acade.fr](mailto:joel@acade.fr)
