@@ -11,4 +11,4 @@ Cette proposition s’adresse aux équipes pro constituées tout autant qu’à 
 
 J’accompagne ainsi depuis plusieurs années des équipes variées, équipes pro, de direction ou encore de managers lors de séances d’1 à 2 heures sur site ou en distanciel.
 
-plus d'infos : joel@acade.fr
+plus d'infos : [joel@acade.fr](mailto:joel@acade.fr)
