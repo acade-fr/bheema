@@ -1,12 +1,10 @@
 ---
 layout: post
-title: à propos
+title: à propos de... Joël Gronfier
 permalink: /about/
 img: bheema-2.PNG
 ---
-
   ![joel gronfier]({{ "/img/jg.jpg" | relative_url }})
-<b>Joël Gronfier</b>,
 
 <b>formateur en management et communications humaines</b>
 
