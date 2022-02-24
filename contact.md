@@ -16,6 +16,3 @@ Vous pouvez me joindre
 et / ou
 
 [rester informer](https://framaforms.org/etre-informee-1626868103)
-
-![image](https://user-images.githubusercontent.com/87773631/155549879-feaccd3a-91bf-47bb-940c-72f5e859d564.png)
-
