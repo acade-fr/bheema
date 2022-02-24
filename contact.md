@@ -15,4 +15,4 @@ Vous pouvez me joindre
 
 et / ou
 
-[rester informer](https://framaforms.org/etre-informee-1626868103)
+📬 [rester informer](https://framaforms.org/etre-informee-1626868103)
