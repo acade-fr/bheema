@@ -14,5 +14,6 @@ par téléphone : 06 75 37 31 34
 
 
 et / ou
+
 [rester informer](https://framaforms.org/etre-informee-1626868103)
 
