@@ -17,7 +17,7 @@ Cette proposition s’adresse aux équipes pro constituées tout autant qu’à 
 Pour combien de personnes ?
 : 2 à 15 (environ)
 
-Comment cela se présente ? 
+Comment cela se présente-t-il ? 
 : - Une rencontre de 1 à 2 h est qualifiée à raison de 3 à 6 séances pas an.
   - Elles sont organisées en présentielle ou en distanciel quand cela est possible et souhaité.
 
