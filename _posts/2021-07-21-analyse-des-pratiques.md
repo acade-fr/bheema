@@ -14,7 +14,7 @@ Cette proposition s’adresse aux équipes pro constituées tout autant qu’à 
 À qui cela s’adresse-t-il ?
 : À vous et à votre équipe ou à une équipe constituée pour l’occasion (ex : managers) qui souhaitez prendre du recul sur votre pratique professionnelle du quotidien dans ses différentes dimensions
 
-Pour combien de personnes ?
+Pour combien de personne(s) ?
 : 2 à 15 (environ)
 
 Comment cela se présente-t-il ? 
