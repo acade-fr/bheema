@@ -8,7 +8,7 @@ Vous pouvez me joindre
 
 📧 [par courriel](mailto:nous-nous-contactons@acade.fr)
 
-☎️ par téléphone : 06 75 37 31 34
+☎️ par téléphone : +33 (0)6 75 37 31 34
 
 [sur linkedin](http://linkedin.com/in/joël-gronfier-8498961a9)
 
