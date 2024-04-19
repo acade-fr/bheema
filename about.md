@@ -17,11 +17,11 @@ Chaque thématique est l'occasion de créer de nouveaux outils et supports pour 
 
 <b>consultant manager</b>
 
-🗨 *Depuis plus de 10 ans, j'apporte un regard professsionnel et extérieur sur les différentes questions relatives au rôle et à la posture de manager.*
+🗨 *Depuis plus de 10 ans, j'apporte un regard professionnel et extérieur sur les différentes questions relatives au rôle et à la posture de manager.*
 
 
 
-<b>coach professionnel certifié</b>
+<b>coach professionnel certifié et praticien en PNL</b>
 
 🗨 *Depuis plus de 10 ans je facilite les évolutions.*
 *Certifié par ICI Genève accrédité ICF, je développe le coaching individuel / life-coaching et le coaching d'équipe.*
