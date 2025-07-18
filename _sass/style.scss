@@ -216,6 +216,11 @@ pre {
     width: 33.33333%;
 }
 
+.three.columns.news-piece {
+    margin-left: 0;
+    width: 25%;
+}
+
 }
 .first-row {
     border-bottom: 2px solid transparent;
@@ -270,7 +275,7 @@ pre {
         border-right: none;
     }
 }
-.four.border {
+.four.border, .three.border, .six.border {
     border-right: 2px solid #f1b52e;
         @include media-query($on-palm) {
         border-right: none;
