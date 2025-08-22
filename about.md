@@ -8,7 +8,7 @@ img: bheema-2.PNG
 
 <b>formateur en management et communications humaines</b>
 
-🗨 *Depuis plus de 15 ans, je mets en œuvre une pédagogie participative et développe des méthodologies utilisant l’expérimentation.
+🗨 *Depuis plus de 20 ans, je mets en œuvre une pédagogie participative et développe des méthodologies utilisant l’expérimentation.
 Chaque thématique est l'occasion de créer de nouveaux outils et supports pour favoriser cette démarche inter-active.*
 
 *En outre, j'interviens régulièrement pour le Centre National de la Fonction Publique Territoriale (CNFPT – Région Rhône-Alpes-Grenoble) sur les thématiques du Management et de la communication.*
@@ -32,4 +32,4 @@ Auteur de  :
     • Les clés de la communication Éd. Céléades 
     • La communication par le jeu Éd. Génie des Glaciers 
 
-🗨 *En 2005, je créé Acadé.*
+🗨 *En 2005, je créé Acadé, en 2022, Acadé Coach*
